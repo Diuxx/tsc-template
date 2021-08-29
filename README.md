@@ -30,7 +30,7 @@ tsc --init
 ```
 5. update tsconfig
 
-```json
+```ts
 {
   // This is an alias to @tsconfig/node12: https://github.com/tsconfig/bases
   "extends": "ts-node/node12/tsconfig.json",
